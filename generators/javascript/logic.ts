@@ -66,6 +66,7 @@ export function logic_compare(
   // Comparison operator.
   const OPERATORS = {
     'EQ': '==',
+    'SEQ': '===',
     'NEQ': '!=',
     'LT': '<',
     'LTE': '<=',
